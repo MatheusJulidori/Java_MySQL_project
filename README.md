@@ -1,10 +1,10 @@
-# Projeto Final C207L1 C206L1
+# Final Project C207L1 C206L1
 
 
-## Descrição
-Este projeto tem como objeto exaltar a beleza das obras da Terra Média de J.R.R Tolkien.<br>
-Ele foi baseado nas obras da Segunda Era, na batalha da Última Aliança, onde, pela Homens e Elfos se uniram pela última vez, antes dos acontecimentos da Guerra do Anel e da Sociedade do Anel na trilogia O Senhor dos Anéis, para combater as forças de Sauron em Barad-dûr.<br>
-Depois de uma batalha que levou a morte do rei dos homens, Isildur o então príncipe e futuro rei, usou a espada de seu pai para derrotar Sauron, cortando o Um Anel de seu dedo.
+## Description
+This project aims to glorify the beauty of J.R.R. Tolkien's Middle-earth works.<br>
+It was based on the works of the Second Age, on the battle of the Last Alliance, where Men and Elves united for the last time, before the events of the War of the Ring and the Fellowship of the Ring in The Lord of the Rings trilogy, to fight Sauron's forces in Barad-dûr.<br>
+After a battle that led to the death of Elendil, the king of men, Isildur, the then prince and future king, used his father's sword to defeat Sauron, cutting the One Ring from his finger.
 
 <p align="center">
   <img src="the_last_stand_of_isildur.jpg">
@@ -13,21 +13,21 @@ Depois de uma batalha que levou a morte do rei dos homens, Isildur o então prí
 
 <br>
 
-## Conceitos
-Foram feitas algumas aplicações no projeto com base nos conceitos aprendidos em C206 e C207, como:
+## Concepts
+In the project, some concepts learned in C206 (Java OOP) and C207 (MySQL) were applied, such as:
 - Classes;
-- Classes Abstratas;
-- Herança;
-- Polimorfirmos;
-- Interface de interação;
+- Abstract Classes;
+- Inheritance;
+- Polymorphism;
+- Interaction interface;
 - Java collections;
 - Maven;
 - CRUD;
-- Relacionamentos;
+- Relationships;
 
 
-## Funcionalidades do código
-- O código é um jogo baseado no formato Decision Making;
-- O código exibe as características do seu personagem e dos inimigos que você enfrentar;
-- Encena a batalha e atualiza os dados equanto os exibe no console;
+## Code features
+- The code is a game based on the Decision Making format;
+- The code displays the characteristics of your character and the enemies you face;
+- It stages the battle and updates the data while displaying it on the console;
 
